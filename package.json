@@ -1,13 +1,10 @@
 {
-  "name": "zyphor-tribunal",
+  "name": "bot-tribunal",
   "version": "1.0.0",
-  "description": "Bot de Tribunal",
+  "description": "Bot de atendimento e julgamento para Discord",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
-  "engines": {
-    "node": ">=18.0.0"
   },
   "dependencies": {
     "discord.js": "^14.14.1",
